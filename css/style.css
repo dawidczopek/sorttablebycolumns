@@ -1,0 +1,19 @@
+#idTable {
+    width:100%;
+}
+
+thead {
+    margin: 5px;
+    background: grey;
+    color: white;
+}
+
+th {
+    padding: 10px;
+    border: 1px solid black;
+}
+
+td {
+    padding: 10px;
+    border: 1px solid black;
+}
